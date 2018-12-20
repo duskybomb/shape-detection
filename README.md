@@ -20,5 +20,8 @@ python capture.py -c  # use default webcam
  - Images should be filled with dark colors
  
 ## Sample
-![Sample](assets/sample.gif)
-![Sample](assets/backend_video.png)
+Code in work
+![Sample](assets/sample.gif =400)
+
+Backend
+![Sample](assets/backend_video.png =400)
