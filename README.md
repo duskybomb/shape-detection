@@ -15,7 +15,7 @@ python capture.py -c  # use default webcam
    - triangle
    - rectangle
    - pentagon
-   -circle
+   - circle
  
  - Images should be filled with dark colors
  
